@@ -1,0 +1,147 @@
+.container {
+    width: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.row {
+    --bs-gutter-x: none;
+
+}
+
+.headerImg {
+    width:100%;
+    object-fit: cover;
+    padding-bottom: 10px;
+}
+
+.intro {
+    background-color:#5308bf;
+    color: white;
+    padding: 25px;
+    font-size: 20px;
+}
+
+.intro_header {
+    font-weight: bold;
+    color: white;
+    justify-content: justify;
+}
+
+.content_1_left {
+    background-color: black;
+    color: white;
+    padding: 55px;
+}
+
+.content_1_header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.content_1_right {
+    background-color:#ba72ef;
+    padding: 25px;
+    color: white;
+    font-size: 20px;
+}
+
+.content_2_header {
+    color: #5308bf;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 40px;
+    margin-bottom: 0px;
+}
+
+.content_2_subHeader {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.content_2_imgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content_2_imgs_text {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 29px;
+    display: block;
+}
+
+.content_2_par {
+    text-align: left;
+    color: purple;
+    font-size: 19px;
+}
+
+.content_2_par_header {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    font-size: 22px
+}
+
+.col-content_2 {
+    padding-right: 50px;
+}
+
+.content_btn {
+    text-align: center;
+}
+
+.bg_colour_1 {
+    background-color: #77f2ff;
+    padding: 25px;
+    font-size: 20px;
+}
+
+.content_3_img1 {
+    width:100%;
+    object-fit: cover; 
+}
+
+.spacing {
+    padding-right: 45px;
+}
+
+.fontsize {
+    font-size: 30px;
+}
+
+.disclaimer {
+    background-color:lightgrey;
+    padding: 25px;
+    font-weight: normal;
+}
+
+.disclaimer_heading {
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.disclaimer_text {
+    text-align: center;
+    font-weight: none;
+}
+
+.intro_text {
+    font-weight:normal;
+}
+
+:focus {
+    outline: none !important;
+    box-shadow: none !important
+}
+
+.img-fluid {
+    width: 100%;
+    height: 100%;
+}

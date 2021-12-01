@@ -1,0 +1,1 @@
+This is a very basic marketing page that includes responsive design - just for fun! 
